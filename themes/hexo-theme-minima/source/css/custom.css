@@ -227,31 +227,13 @@ a.footer-link:focus {
 .github {
   fill: #63636F;
 }
-.linkedin {
-  fill: #0073b1;
-}
-.twitter {
-  fill: #1DA1F2;
-}
-.instagram {
-  fill: #E4405F
-}
-.stackoverflow {
-  fill: #ca7516;
-}
+
 .nanobar {
   left: 0;
 }
 
 body {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  bottom: 10px;
-  right: 10px;
   padding: 5px;
-  overflow-y: scroll;
-  overflow-x: hidden;
   transition: all 0.3s ease-in-out;
 }
 
