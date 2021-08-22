@@ -4,7 +4,13 @@
       <div onclick=setDarkMode(true) id="darkBtn"><%= theme.switch_dark %></div>
       <div onclick=setDarkMode(false) id="lightBtn" class=hidden><%= theme.switch_light %></div>
       <script >
-        if (localStorage.getItem('preferredTheme') == 'dark') {
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+
+        var preferredTheme = localStorage.getItem('preferredTheme')
+        if (
+          preferredTheme == 'dark' ||
+          (prefersDark && preferredTheme != 'light')
+        ) {
           setDarkMode(true)
         }
         function setDarkMode(isDark) {
@@ -17,7 +23,7 @@
           } else {
             lightBtn.style.display = "none"
             darkBtn.style.display = "block"
-            localStorage.removeItem('preferredTheme');
+            localStorage.setItem('preferredTheme', 'light');
           }
           document.body.classList.toggle("darkmode");
         }

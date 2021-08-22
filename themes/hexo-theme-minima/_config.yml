@@ -22,7 +22,7 @@ switch_dark: 🌗
 # favicon
 favicon: /images/favicon.png
 # thumbnail
-thumbnail: /images/thumbnail.jpg
+thumbnail: /images/thumbnail.png
 
 article:
   thumbnail: true

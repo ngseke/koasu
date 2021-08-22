@@ -43,7 +43,7 @@
   <% } %>
   <meta name="author" content="<%- config.author %>">
   <% if (is_post() || is_page()) { %>
-  <meta property="og:image" content="<%-config.url + page.thumbnail %>">
+  <meta property="og:image" content="<%-config.url + theme.thumbnail %>">
   <% } else { %>
   <meta property="og:image" content="<%-config.url + theme.thumbnail %>">
   <% } %>
@@ -69,7 +69,7 @@
   <meta name="twitter:description" content="<%= config.description %>">
   <% } %>
   <% if (is_post() || is_page()) { %>
-  <meta name="twitter:image" content="<%-config.url + page.thumbnail %>">
+  <meta name="twitter:image" content="<%-config.url + theme.thumbnail %>">
   <% } else { %>
   <meta name="twitter:image" content="<%-config.url + theme.thumbnail %>">
   <% } %>
@@ -98,7 +98,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="<%- theme.favicon %>">
+  <link rel="icon" type="image/png" href="<%- config.root + theme.favicon %>">
 
   <!-- Custom Theme Color Style
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
