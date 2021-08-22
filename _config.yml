@@ -3,8 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Koasu
-subtitle: ''
+title: Koa-sû
+subtitle: '非主流台語白話字歌詞'
+metaTitle: POJ Lyrics 白話字拼音歌詞
 description: ''
 keywords:
 author: Huang Xingqiao
@@ -14,7 +15,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://ngseke.github.io/koasu/
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks

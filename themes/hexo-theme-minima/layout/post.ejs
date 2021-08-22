@@ -1,4 +1,10 @@
-  <h2><%- page.title %></h2>
+  <h2><%- page.title %> <span class="by"><%- page.by %></span></h2>
+
+  <% if (page.youtubeId) { %>
+    <div class="youtube-embed">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/<%- page.youtubeId %>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  <% } %>
 
   <%- page.content%>
   <p><%- list_tags(page.tags, {class: 'classtest', show_count: false, style: false}) %> — <%- full_date(page.date, 'll') %></p>

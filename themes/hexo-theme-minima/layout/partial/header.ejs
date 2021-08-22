@@ -26,15 +26,18 @@
   </div>
 
   <div class="six columns ml-1">
-    <h1 class="mt-2">
-      <%= theme.title %>
+    <h1 class="mt-2 mb-1">
+      <a href="<%= config.root %>">
+        <%= config.title %>
+      </a>
     </h1>
+    <small><%= config.subtitle %></small>
   </div>
 
   <div class="twelve columns">
     <div class="row">
       <div class="nine columns left">
-        <a href="<%= config.root %>">Home</a>
+        <!-- <a href="<%= config.root %>">Home</a> -->
         <% for (name in theme.menu) { %>
           <% if (theme.menu[name]) { %>
           <a href="<%- url_for(theme.menu[name]) %>" class="ml"><%- name %></a>

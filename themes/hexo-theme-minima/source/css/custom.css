@@ -321,3 +321,23 @@ body.darkmode {
   }
 
 }
+
+.youtube-embed {
+  padding-bottom: 20px;
+}
+
+@media (max-width: 550px) {
+  .youtube-embed iframe {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+h2 .by {
+  font-size: 80%;
+  opacity: .8;
+}
+
+h2 .by::before {
+  content: '—'
+}
