@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Koasu
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Huang Xingqiao
+language: zh
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ngseke.github.io/koasu/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -22,13 +22,14 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: dist
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+root: /koasu/
 
 # Writing
 new_post_name: :title.md # File name of new posts
