@@ -139,16 +139,19 @@ img {
 }
 
 .mode {
-  position: absolute;
+  font-size: 3rem;
   display: block;
   cursor: pointer;
-  -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-     -khtml-user-select: none; /* Konqueror HTML */
-       -moz-user-select: none; /* Old versions of Firefox */
-        -ms-user-select: none; /* Internet Explorer/Edge */
-            user-select: none; /* Non-prefixed version, currently
-                                  supported by Chrome, Edge, Opera and Firefox */
+  user-select: none;
+  transition: all .2s;
+}
+
+.mode:hover {
+  transform: scale(1.1);
+}
+
+.mode:active {
+  transform: scale(.9);
 }
 
 .text-center {
@@ -340,4 +343,11 @@ h2 .by {
 
 h2 .by::before {
   content: '—'
+}
+
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }

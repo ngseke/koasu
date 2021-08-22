@@ -1,43 +1,47 @@
 <div class="row">
-  <div class="two columns" style="max-width: 50px">
-    <h1 class="mt-2 mode">
-      <div onclick=setDarkMode(true) id="darkBtn"><%= theme.switch_dark %></div>
-      <div onclick=setDarkMode(false) id="lightBtn" class=hidden><%= theme.switch_light %></div>
-      <script >
-        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+  <div class="column twelve">
+    <div class="header">
+      <div class="left">
+        <h1 class="mt-2 mb-1">
+          <a href="<%= config.root %>">
+            <%= config.title %>
+          </a>
+        </h1>
+        <small><%= config.subtitle %></small>
+      </div>
 
-        var preferredTheme = localStorage.getItem('preferredTheme')
-        if (
-          preferredTheme == 'dark' ||
-          (prefersDark && preferredTheme != 'light')
-        ) {
-          setDarkMode(true)
-        }
-        function setDarkMode(isDark) {
-          var darkBtn = document.getElementById('darkBtn')
-          var lightBtn = document.getElementById('lightBtn')
-          if (isDark) {
-            lightBtn.style.display = "block"
-            darkBtn.style.display = "none"
-            localStorage.setItem('preferredTheme', 'dark');
-          } else {
-            lightBtn.style.display = "none"
-            darkBtn.style.display = "block"
-            localStorage.setItem('preferredTheme', 'light');
-          }
-          document.body.classList.toggle("darkmode");
-        }
-      </script>
-    </h1>
-  </div>
+      <div>
+        <span class="mt-2 mode">
+          <div onclick=setDarkMode(true) id="darkBtn"><%= theme.switch_dark %></div>
+          <div onclick=setDarkMode(false) id="lightBtn" class=hidden><%= theme.switch_light %></div>
+          <script >
+            var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
 
-  <div class="six columns ml-1">
-    <h1 class="mt-2 mb-1">
-      <a href="<%= config.root %>">
-        <%= config.title %>
-      </a>
-    </h1>
-    <small><%= config.subtitle %></small>
+            var preferredTheme = localStorage.getItem('preferredTheme')
+            if (
+              preferredTheme == 'dark' ||
+              (prefersDark && preferredTheme != 'light')
+            ) {
+              setDarkMode(true)
+            }
+            function setDarkMode(isDark) {
+              var darkBtn = document.getElementById('darkBtn')
+              var lightBtn = document.getElementById('lightBtn')
+              if (isDark) {
+                lightBtn.style.display = "block"
+                darkBtn.style.display = "none"
+                localStorage.setItem('preferredTheme', 'dark');
+              } else {
+                lightBtn.style.display = "none"
+                darkBtn.style.display = "block"
+                localStorage.setItem('preferredTheme', 'light');
+              }
+              document.body.classList.toggle("darkmode");
+            }
+          </script>
+        </span>
+      </div>
+    </div>
   </div>
 
   <div class="twelve columns">
