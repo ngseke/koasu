@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
-date: {{ date }}
+by: {{ by }}
 tags:
+youtubeId:  {{ youtubeId }}
+date: {{ date }}
 ---
