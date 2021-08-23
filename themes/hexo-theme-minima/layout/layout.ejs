@@ -19,7 +19,7 @@
   if (is_archive()){
     title = 'All Posts - ' + config.author;
   } else if (is_post()){
-    title = `${page.title} by ${page.by} [${config.metaTitle}] - ${config.title}`
+    title = `${page.title} - ${page.by} [${config.metaTitle}] - ${config.title}`
   } else if (is_page()){
     title = page.title + ' - ' + config.author;
   } else if (is_tag()){
@@ -99,7 +99,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="<%- config.root + theme.favicon %>">
+  <link rel="icon" type="image/png" href="<%- url_for(theme.favicon) %>">
 
   <!-- Custom Theme Color Style
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
