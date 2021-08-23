@@ -21,4 +21,4 @@ Sī siáng chia cheng-siⁿ
 Góa iá-bô chò siáⁿ-mih pháiⁿ tāi-chì
 
 Sī-m̄-sī koài góa bô-chîⁿ
-Sán kah beh ho͘ kúi thoa-khì
+Sán kah beh hō͘ kúi thoa-khì
