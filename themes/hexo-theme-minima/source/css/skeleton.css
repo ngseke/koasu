@@ -280,48 +280,23 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a:not(.icon) {
   color: inherit;
-  background-size: 100% 200%;
-  transition:
-    background-position .2s ease-in-out
+  transition: all .05s;
+  display: inline-block;
+  padding: 0 3px;
+  border-radius: 5px;
 }
 
 a:hover:not(.icon),
 a:focus:not(.icon) {
-  background-position: 0 100%;
   color: #fff;
+  background-color: rgba(255, 255, 255, .1);
 }
 
-/* a:hover {
-  background-color: #0FA0CE;
-  transition: to top 200ms ease-out;
-
+a:active:not(.icon) {
+  transform: scale(.99);
 }
 
-.link {
-  text-decoration: none;
-  color: inherit;
-  position: relative;
-}
 
-.link:hover {
-  color: inherit;
-}
-
-.link:after {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  top: 80%;
-  left: -0.1em;
-  right: -0.1em;
-  bottom: 0;
-  transition: top 200ms cubic-bezier(0, .8, .13, 1);
-  background-color: #0FA0CE;
-}
-
-.link:hover:after {
-  top: 0%;
-} */
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
