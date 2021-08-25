@@ -288,6 +288,13 @@ a:not(.icon) {
 
 a:hover:not(.icon),
 a:focus:not(.icon) {
+  color: #000;
+  background-color: rgba(0, 0, 0, .05);
+}
+
+
+body.darkmode a:hover:not(.icon),
+body.darkmode a:focus:not(.icon) {
   color: #fff;
   background-color: rgba(255, 255, 255, .1);
 }
@@ -296,6 +303,9 @@ a:active:not(.icon) {
   transform: scale(.99);
 }
 
+body.darkmode a:active:not(.icon) {
+  transform: scale(.99);
+}
 
 
 /* Buttons
