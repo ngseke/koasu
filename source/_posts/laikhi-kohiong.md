@@ -11,20 +11,28 @@ date: 2021/6/18
 Ko-hiông hó chhit-thô
 Saⁿ-kang nn̄g-mê siōng tú-hó
 
+### [Verse 1]
+
 Chē ko-thih chí ài tiám-pòaⁿ-cheng
 Iân-tô͘ khòaⁿ hong-kéng
 Ko-hiông-lâng ū pún-léng
 Hô-sóng hó-kheh chin jia̍t-chêng
+
+### [Chorus 1]
 
 Sè-kài it-liû Ko-hiông-káng
 Bí-lē se̍k-iông Se-á-oân
 Goa̍t-sè-kài 地質奇觀 koh ū 蓮池潭
 Lâi chia 打卡按個讚
 
+### [Verse 2]
+
 晨鐘暮鼓佛光山
 Chong-giâm hu̍t-tô kì-liām-koán
 Pó-lâi un-chôaⁿ 一級棒
 懷舊 Tá-káu léng-sū-koán
+
+### [Bridge]
 
 一心二聖三多四維
 五福六合七賢八德
@@ -33,10 +41,14 @@ Pó-lâi un-chôaⁿ 一級棒
 Koh chin hó-kì
 So Fantastic So Fun
 
+### [Verse 3]
+
 Ài-hô sàn-pō͘ 談戀愛
 Iā-kéng pin-hun iū to-chhái
 Kok-chè siâⁿ-chhī lâng-lâng ài
 Ta̍k-ke tùi chia ū kî-thāi
+
+### [Chorus 2]
 
 義大世界還有夢時代
 吃喝玩樂逛不完

@@ -8,6 +8,8 @@ youtubeId: M_CWNFBBAiI
 date: 2021/8/23
 ---
 
+### [Verse 1]
+
 Chan-keng góa iā siūⁿ-kòe sí-sí khah khùiⁿ-oa̍h
 Sī in-ūi chi̍t-ê lâng chē tiàm ú-tiū ê iā-pan-chhia
 Bông-bông-biáu-biáu ê kng-iáⁿ
@@ -20,6 +22,8 @@ Tiám-tio̍h mn̄g-hō ê jîn-seng
 M̄-bat sêng-chin ê goān-bōng
 Phah-khui ē-po͘ bé hō͘ ka-kī kiaⁿ-hí ê lé-bu̍t-a̍p
 
+### [Pre-chorus 1]
+
 Tiān-ōe hit-thâu tîm-tāng ê chhoán-khùi siaⁿ
 Bô ōe thang kóng iū-koh m̄-kam kòa
 Khiā-tī siâⁿ-chhī ke-thâu ê si̍p-jī-lō͘-kháu
@@ -29,6 +33,8 @@ Bîn-á-ji̍t choa̍t-tùi ài iâⁿ-kòe kin-á-ji̍t
 Lâu-tio̍h ba̍k-sái thiaⁿ-tio̍h sim-lāi bî-jio̍k ê jióng-hoah
 Khiā--khí-lâi ah, khiā--khí-lâi ah, tān-sī ah
 
+### [Chorus 1]
+
 Chan-keng góa iā siūⁿ-kòe sí-sí khah khùiⁿ-oa̍h
 Sī in-ūi góa ê sim í-keng phòa-liáu chi̍t-tōa-lia̍t
 Chi̍t-tiám-á khùi-la̍t lóng bô ah
@@ -36,6 +42,8 @@ Liâm thòng-khó͘ lóng bô kám-kak
 Chí-chhun khut-kiông pang liáu í-āu bô-la̍t ê nńg-chiáⁿ
 
 ---
+
+### [Verse 2]
 
 Chan-keng góa iā siūⁿ-kòe sí-sí khah khùiⁿ-oa̍h
 Sī in-ūi chi̍t-ê lâng khiā-tī hō͘-thiⁿ ê hō͘-sòaⁿ kha
@@ -49,6 +57,8 @@ Kám-kak kiàn-siàu ê bô-siaⁿ
 Bô-thang piān-kái ê su-ka
 Hiān-chāi ê góa it-tēng hō͘ lí hui-siông ê sit-bōng pa
 
+### [Pre-chorus 2]
+
 M̄-goān piàn-sêng chit-sò͘ pan ê chûn-chāi
 Hòng-khì ka-kī iōng-sim thó-hó sè-kài
 Chí-iàu ē tit-tio̍h chi̍t-tiám-tiám ê un-loán
@@ -59,6 +69,8 @@ Lú sī jīn-chin tùi-thāi sim tio̍h siong lú tāng
 Soàn ah pa
 Hoán-chèng chòe-āu it-tēng sī sit-bōng ah
 
+### [Chorus 2]
+
 Chan-keng góa iā siūⁿ-kòe sí-sí khah khùiⁿ-oa̍h
 Sī in-ūi góa ê sè-kài bô lâng thang chai-iáⁿ
 Chi̍t-ê pi-bî ê ǹg-bāng
@@ -66,6 +78,8 @@ Chi̍t-su-su ê ài ah
 Chi̍t-su-su nn̄g-ê lâng sio-lám sin-khu ê sio-joa̍h
 
 ---
+
+### [Chorus 3]
 
 Chan-keng góa iā siūⁿ-kòe sí-sí khah khùiⁿ-oa̍h
 Sī in-ūi it-ti̍t chhōe bōe tio̍h chhut-kháu ê kng-sòaⁿ
