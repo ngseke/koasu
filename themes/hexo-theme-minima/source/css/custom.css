@@ -316,3 +316,9 @@ h2 .by::before {
   align-items: center;
   justify-content: space-between;
 }
+
+.header .subtitle {
+  opacity: .8;
+  letter-spacing: .5px;
+  padding-left: 2px;
+}
