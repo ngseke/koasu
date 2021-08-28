@@ -18,7 +18,7 @@ Sai-nai 幾句
 ### [Verse 2]
 
 Ba̍k-kho͘ âng-âng, bô siūⁿ-beh kóng-ōe
-Tiām-tiām chē tī hia, káⁿ-nā bô-hûn-ū-thé
+Tiām-tiām chē tī hia, káⁿ-ná bô-hûn-ū-thé
 I think you know everything
 對不對
 
