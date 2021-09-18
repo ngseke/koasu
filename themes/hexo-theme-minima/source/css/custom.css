@@ -322,3 +322,8 @@ h2 .by::before {
   letter-spacing: .5px;
   padding-left: 2px;
 }
+
+p em {
+  font-size: 90%;
+  opacity: .8;
+}
