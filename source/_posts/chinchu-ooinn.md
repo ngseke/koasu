@@ -5,6 +5,7 @@ by: 旺福
 tags:
 - 旺福
 - 珍珠芋圓
+- 俗女養成記2
 youtubeId: 9zcWeVzCLDo
 ---
 
@@ -26,8 +27,8 @@ Góa bōe-hiáu Ji̍t-bûn, mā khòaⁿ bô Eng-bûn
 Káⁿ-ná ē-hiáu kah lí chhiò-bûn-bûn
 
 ###  [Chorus 2]
-Lí nā bô ài góa, góa tio̍h o͘-i-o͘-i-o͘-i 
-Lí nā bô ài góa, góa tio̍h o͘-i-o͘-i-o͘-i 
+Lí nā bô ài góa, góa tio̍h o͘-i-o͘-i-o͘-i
+Lí nā bô ài góa, góa tio̍h o͘-i-o͘-i-o͘-i
 Chin-chu kah ō͘-îⁿ
 
 ### [Verse 2]
