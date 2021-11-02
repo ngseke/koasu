@@ -35,7 +35,7 @@ Góa ê kiaⁿ-hiâⁿ lí kám ē chai
 
 *腹肚疼 毋是食歹腹肚的彼種疼*
 Pak-tó͘ thiàⁿ, m̄-sī chia̍h pháiⁿ pak-tó͘ ê hit-chióng thiàⁿ
-*緊張到欲蹺去的彼種疼*
+*緊張到欲翹去的彼種疼*
 Kín-tiuⁿ kàu beh khiàu-khì ê hit-chióng thiàⁿ
 *疼甲我揣媽媽*
 Thiàⁿ kah góa chhōe ma-ma
@@ -70,7 +70,7 @@ Chhiú hōaⁿ hō͘ ân, kha khiā hō͘ chāi
 
 *腹肚疼 毋是食歹腹肚的彼種疼*
 Pak-tó͘ thiàⁿ, m̄-sī chia̍h pháiⁿ pak-tó͘ ê hit-chióng thiàⁿ
-*緊張到欲蹺去的彼種疼*
+*緊張到欲翹去的彼種疼*
 Kín-tiuⁿ kàu beh khiàu-khì ê hit-chióng thiàⁿ
 *干焦疼久我就毋驚*
 Kan-na thiàⁿ kú góa tio̍h m̄-kiaⁿ
