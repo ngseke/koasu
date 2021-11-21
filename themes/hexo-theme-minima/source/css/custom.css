@@ -327,3 +327,14 @@ p em {
   font-size: 90%;
   opacity: .8;
 }
+
+.fixed-logo {
+  height: 50px;
+  width: 50px;
+  box-shadow: none;
+  opacity: .5;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  margin: 0;
+}
