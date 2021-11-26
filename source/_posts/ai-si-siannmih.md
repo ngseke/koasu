@@ -33,10 +33,10 @@ Siūⁿ-beh kah lí liâm-thi-thi
 *愛是啥物 愛是啥物*
 Ài sī siáⁿ-mih, ài sī siáⁿ-mih
 *愛就是用仝一支鎖匙*
-Ài tio̍h-sī iōng kâng chi̍t-ki só-sî
+Ài tō sī iōng kâng chi̍t-ki só-sî
 *愛是啥物 愛是啥物*
 Ài sī siáⁿ-mih, ài sī siáⁿ-mih
-*愛是陪你去挽嘴齒*
+*愛是陪你去挽喙齒*
 Ài sī pôe lí khì bán chhùi-khí
 
 *愛是啥物 愛是啥物*
