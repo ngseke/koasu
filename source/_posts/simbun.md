@@ -76,7 +76,7 @@ Khàu, pi-loān si-koa bô-lâng goān-ì thiaⁿ
 *愛著不該愛的人 牽起不該牽的手*
 Ài tio̍h put-kai ài ê lâng, khan--khí put-kai khan ê chhiú
 *衝碰浪子踏線以前背後總有人咧搝*
-chhóng-pōng lōng-chú ta̍h-sòaⁿ í-chêng pōe-āu chóng ū lâng leh khiú
+Chhóng-pōng lōng-chú ta̍h-sòaⁿ í-chêng pōe-āu chóng ū lâng leh khiú
 *寄袂出的情批 規疊藏佇心底*
 Kià bē chhut ê chêng-phoe, kui tha̍h chhàng tī sim-té
 *講好 咱只是無夠緣的朋友*

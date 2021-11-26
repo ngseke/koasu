@@ -13,7 +13,7 @@ date: 2021/8/25
 ### [Verse]
 
 *見面幾落擺 當作無熟似*
-Kìⁿ-bīn kúi lo̍k pái, tòng-chò bô se̍k-sāi
+Kìⁿ-bīn kúi lo̍h pái, tòng-chò bô se̍k-sāi
 *實在不應該*
 Si̍t-chāi put eng-kai
 *我愛你在心裡*
