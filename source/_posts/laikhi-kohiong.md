@@ -40,7 +40,7 @@ Lâi chia 打卡按個讚
 *晨鐘暮鼓佛光山*
 晨鐘暮鼓佛光山
 *莊嚴佛陀紀念館*
-Chong-giâm hu̍t-tô kì-liām-koán
+Chong-giâm pu̍t-tô kì-liām-koán
 *寶來溫泉一級棒*
 Pó-lâi un-chôaⁿ 一級棒
 *懷舊打狗領事館*
