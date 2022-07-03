@@ -41,7 +41,7 @@ Kám-sī góa āu chi̍t chām ê ke
 
 *喔 為何*
 O͘h ūi-hô
-*𪜶毋知我的憂愁*
+*亻因毋知我的憂愁*
 In m̄-chai góa ê iu-chhiû
 *但是我知影你*
 Tān-sī góa chai-iáⁿ lí
