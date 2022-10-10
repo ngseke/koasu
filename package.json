@@ -2,6 +2,12 @@
   "name": "koasu",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8.5",
+    "yarn": "please-use-npm",
+    "pnpm": "please-use-npm"
+  },
   "scripts": {
     "dev": "hexo server",
     "build": "hexo generate",
