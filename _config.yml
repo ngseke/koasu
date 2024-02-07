@@ -14,7 +14,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://koasu.tk/
+url: https://ngseke.github.io/koasu
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -30,7 +30,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-root: /
+root: /koasu/
 
 # Writing
 new_post_name: :title.md # File name of new posts
